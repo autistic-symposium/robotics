@@ -1,4 +1,4 @@
-Computational_Photography
+Computational Photography
 =========================
 
 This repository contains exercises from a graduate Computational Photography Class I took at Stony Brook University, 2013.
